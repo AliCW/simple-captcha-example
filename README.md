@@ -8,18 +8,6 @@ clone the repo
 
     git clone https://github.com/AliCW/simple-captcha-example.git
 
-Initialize npm for react install
-
-    npm init
-
-Install react
-
-    npm install react
-
-Create a react app
-
-    npx create-react-app <your-app-name>
-
 Install dependencies
 
     npm install
